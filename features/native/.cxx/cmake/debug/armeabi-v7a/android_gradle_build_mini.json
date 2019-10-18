@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/tangjinlong/TestProjects/android-dynamic-features-master/features/native/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/tangjinlong/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tangjinlong/TestProjects/android-dynamic-features-master/features/native/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Debug-armeabi-v7a": {
+      "artifactName": "hello-jni",
+      "buildCommand": "/Users/tangjinlong/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tangjinlong/TestProjects/android-dynamic-features-master/features/native/.cxx/cmake/debug/armeabi-v7a --target hello-jni",
+      "abi": "armeabi-v7a",
+      "output": "/Users/tangjinlong/TestProjects/android-dynamic-features-master/features/native/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so"
+    }
+  }
+}

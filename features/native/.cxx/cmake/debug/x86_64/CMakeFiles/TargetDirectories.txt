@@ -1,0 +1,3 @@
+/Users/tangjinlong/TestProjects/android-dynamic-features-master/features/native/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/tangjinlong/TestProjects/android-dynamic-features-master/features/native/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/tangjinlong/TestProjects/android-dynamic-features-master/features/native/.cxx/cmake/debug/x86_64/CMakeFiles/hello-jni.dir
